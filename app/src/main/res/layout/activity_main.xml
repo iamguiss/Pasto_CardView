@@ -27,8 +27,7 @@
                     android:src="@drawable/pasta"
                     tools:ignore="MissingConstraints"
                     android:scaleType="centerCrop"
-                    tools:layout_editor_absoluteX="0dp"
-                    tools:layout_editor_absoluteY="16dp" />
+                     />
 
                 <ImageView
                     android:layout_gravity="right"
